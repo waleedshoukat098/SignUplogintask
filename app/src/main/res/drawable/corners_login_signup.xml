@@ -1,0 +1,5 @@
+<!-- rounded_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="12dp" /> <!-- Adjust the radius as needed -->
+    <gradient android:startColor="#6CC3E6" android:endColor="#FFFFFF" /> <!-- Set your desired background color -->
+</shape>

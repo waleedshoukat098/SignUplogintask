@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623665989209",
+    "project_id": "taskoo-41069",
+    "storage_bucket": "taskoo-41069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623665989209:android:48bafd416a15cdab895348",
+        "android_client_info": {
+          "package_name": "com.techinnovation.taskoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3-Xe2uhJzPCJvPIzjcXPzjkpORO_Noo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
